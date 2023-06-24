@@ -10,3 +10,6 @@ public class ClassPC {
 1
 0
 0
+5
+5
+
