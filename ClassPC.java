@@ -3,3 +3,6 @@ public class ClassPC {
 1
 1
 1
+2
+2
+3
