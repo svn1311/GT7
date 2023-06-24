@@ -1,4 +1,7 @@
 public class ClassPC {
-    0
-    0
+    2
+    2
+    2
+    2
+    
 }
