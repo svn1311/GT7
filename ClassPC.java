@@ -4,5 +4,7 @@ public class ClassPC {
 888
 77
 777
+3
+3
 1
-1
+2
