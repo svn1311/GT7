@@ -1,5 +1,5 @@
 public class ClassPC {
 0
-0
-0
-0
+1
+1
+1
